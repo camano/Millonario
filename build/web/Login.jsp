@@ -13,6 +13,7 @@
     </head>
     <body>
         <h2>probando git</h2>
+        <h2>probando</h2>
             <div>
                 <label>correo</label>    
             </div>
