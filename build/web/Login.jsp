@@ -32,6 +32,10 @@
             <input type="submit" id="btnconsultar" name="btnconsultar" value="Ingresar">
             <button onclick="formuario()">Consultar</button>
         </div>
+        <div>
+            <input type="submit" id="btnconsultar" name="btnconsultar" value="Ingresar">
+            <button onclick="formuario()">Consultar</button>
+        </div>
         
         
         <div id="respuesta"></div>
