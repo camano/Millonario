@@ -12,8 +12,7 @@
         <title>Login</title>
     </head>
     <body>
-        <h2>probando git</h2>
-        <h2>probando</h2>
+        
             <div>
                 <label>correo</label>    
             </div>
@@ -32,10 +31,7 @@
             <input type="submit" id="btnconsultar" name="btnconsultar" value="Ingresar">
             <button onclick="formuario()">Consultar</button>
         </div>
-        <div>
-            <input type="submit" id="btnconsultar" name="btnconsultar" value="Ingresar">
-            <button onclick="formuario()">Consultar</button>
-        </div>
+       
         
         
         <div id="respuesta"></div>
