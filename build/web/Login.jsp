@@ -12,7 +12,7 @@
         <title>Login</title>
     </head>
     <body>
-        
+        <h2>probando git</h2>
             <div>
                 <label>correo</label>    
             </div>
